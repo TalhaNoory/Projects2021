@@ -46,7 +46,7 @@ og starter med en highscore 0.
 Betingelsen for at vinde:
 Alt det du skal gøre, er at indsætte et nummer mellem 1 og 20.
 Nummeret er skjult med et '?'
-Når man har gættet det rigtige nummber, vil nummeret vises istedet for '?'
+Når man har gættet det rigtige nummer, vil nummeret vises istedet for '?'
 
 Betingelsen for at tabe:
 Når alle 20 forsøg er brugt op.
